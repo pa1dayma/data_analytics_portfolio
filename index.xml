@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data analytics portfolio on Homepage</title>
+    <link>https://pa1dayma.github.io/data_analytics_portfolio/</link>
+    <description>Recent content in Data analytics portfolio on Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Aug 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://pa1dayma.github.io/data_analytics_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualization III : Power supply in India </title>
+      <link>https://pa1dayma.github.io/data_analytics_portfolio/post/viz-3/</link>
+      <pubDate>Fri, 20 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://pa1dayma.github.io/data_analytics_portfolio/post/viz-3/</guid>
+      <description>Power supply in India
+  The electricity generation target of conventional sources for the year 2021-22 has been fixed as 1356 Billion Units (BU), i.e., growth of around 9.83% over an actual conventional generation of 1234.608 BU for the previous year (2020-21).
+  Let&amp;rsquo;s see how the requirements and availability, and distribution of power have changed in India in the last 12 years.
+  I have used the data available on the website of Ministry of power.</description>
+    </item>
+    
+    <item>
+      <title>Visualization II : Pfizer&#39;s market capitalization </title>
+      <link>https://pa1dayma.github.io/data_analytics_portfolio/post/viz-2/</link>
+      <pubDate>Tue, 10 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://pa1dayma.github.io/data_analytics_portfolio/post/viz-2/</guid>
+      <description>Gavi’s COVAX Advance Market Commitment
+  On 10 June, 2021 President Joe Biden announced that United States will donate 500 million Pfizer vaccines to 92 low- and lower middle-income countries and economies.
+  The vaccine maker Pfizer has got the order from the government. The pandemic has been profitable for the pharma sector and Pfizer has also added huge amounts to its valuation.
+  It would be interesting to compare the market value of Pfizer with the GDP of countries that will be getting the benefits of free vaccines by U.</description>
+    </item>
+    
+    <item>
+      <title>Visualization I : Fortune 500 </title>
+      <link>https://pa1dayma.github.io/data_analytics_portfolio/post/viz-1/</link>
+      <pubDate>Tue, 20 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://pa1dayma.github.io/data_analytics_portfolio/post/viz-1/</guid>
+      <description>The Fortune 500
+  When it comes to market capitalization/value the top 4-5 companies on the list of Fortune 500 hold a significant share in the market.
+  For studying this I have gathered data from the official website of Fortune.
+  After that I have used Power BI for making visualization, that shows the market value of top 25 Fortune 500 companies for 2021.
+   Top 25 companies as per market value    From the visualizations we can observe that the top 4 companies Apple, Microsoft, Amazon, Alphabet(Google) have a combined market share of nearly 46% of the total market capitalization of top 25 companies.</description>
+    </item>
+    
+    <item>
+      <title>Project II: The G.O.A.T keeper debate!</title>
+      <link>https://pa1dayma.github.io/data_analytics_portfolio/post/project-2/</link>
+      <pubDate>Sat, 10 Jul 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://pa1dayma.github.io/data_analytics_portfolio/post/project-2/</guid>
+      <description>DIFFERENT STYLES OF GOALKEEPING
+  I have studied the style of playing of German goalkeeper Manuel Neuer and English goalkeeper Jordan Pickford.
+  I have taken the data from their matches in the World cup 2018.
+  The visualizations represents the passes(circles) made by these keepers and the direction(arrows) in which these passes were executed.
+   Passes made by Jordan Pickford    Passes made by Manuel Neuer   Key observations</description>
+    </item>
+    
+    <item>
+      <title>Project I: Impact of data analytics on FOOTBALL</title>
+      <link>https://pa1dayma.github.io/data_analytics_portfolio/post/project-1/</link>
+      <pubDate>Wed, 09 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://pa1dayma.github.io/data_analytics_portfolio/post/project-1/</guid>
+      <description>DATA ANALYTICS IN FOOTBALL
+  In this project I&amp;rsquo;m trying to show how data analytics has changed the approach of players in taking attempts on goal.
+  This is the &amp;ldquo;expected goals model&amp;rdquo; (a product of data analytics), which essentially tells us what are the probabilities of goal being scored from a certain area on the field.
+   The expected goals curve     I have taken data from La Liga season 2006-07 and 2018-19</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://pa1dayma.github.io/data_analytics_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pa1dayma.github.io/data_analytics_portfolio/contact/</guid>
+      <description>Connect with me on these social media platforms.
+   Platform URL     LinkedIn: https://www.linkedin.com/in/pawan--dayma/   Medium: https://pawan-dayma.medium.com/   GitHub: https://github.com/pa1dayma    </description>
+    </item>
+    
+  </channel>
+</rss>
